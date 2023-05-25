@@ -14,7 +14,7 @@ Acme company wants to have a blogging website for their employees.
 ## Instruction
 
 ### Part I.
-Create a project proposal about the company, Acme Inc.'s need to habve a blogging website for employees.
+Create a project proposal about the company, Acme Inc.'s need to have a blogging website for employees.
 1. Assuming that the client and you had already agreed to have a blogging website for employees but the client wants to have a formal proposal and implementation plan.
 2. The client want to know the following details
    1. Timeline
@@ -73,4 +73,4 @@ Create a project proposal about the company, Acme Inc.'s need to habve a bloggin
    1. The repository should have the migration scripts or database included in the project.
 
 
-### Bonus: A comment can have a link, picture a text
+### Bonus: A comment can have a link, picture aside from text
