@@ -45,10 +45,14 @@ Create a project proposal about the company, Acme Inc.'s need to habve a bloggin
       5. Creation Date
       6. Update Date
    5. As a user, I can view ALL blog posts posted by ALL users in the dashboard/home page
+      1. Title
+      2. Description
+      3. Posted By
+      4. Number of comments
    6. As a user, I can view a specific blog post and see all the details
    7. As a user, I can delete my posted blog and cannot be viewed from the dashboard page
    8. As a user, I can edit my blog post and show when was the last update in the dashboard and view page.
-   9. As a user, I can post a comment on the blog post I'm currently viewing
+   9.  As a user, I can post a comment on the blog post I'm currently viewing
    10. As a user, I can comment to a comment and display it as a thread similar to facebook (bonus)
 
     ```
@@ -67,3 +71,6 @@ Create a project proposal about the company, Acme Inc.'s need to habve a bloggin
     ```
 3. Iterations and changes should be pushed to your personal github copy of the project.
    1. The repository should have the migration scripts or database included in the project.
+
+
+### Bonus: A comment can have a link, picture a text
