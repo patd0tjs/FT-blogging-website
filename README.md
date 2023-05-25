@@ -58,11 +58,11 @@ Create a project proposal about the company, Acme Inc.'s need to habve a bloggin
       - description
       - comments
         - comment 1
-          comment 1.1
-          comment 1.2
+            comment 1.1
+            comment 1.2
         - comment 2
-          comment 2.1
-          comment 2.2
+            comment 2.1
+            comment 2.2
         - so on ...
     ```
 3. Iterations and changes should be pushed to your personal github copy of the project.
