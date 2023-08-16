@@ -50,6 +50,7 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
       2. Description
       3. Posted By
       4. Number of comments
+        * pagination - bonus
    6. As a user, I can view a specific blog post and see all the details
    7. As a user, I can delete my posted blog and cannot be viewed from the dashboard page
    8. As a user, I can edit my blog post and show when was the last update in the dashboard and view page.
