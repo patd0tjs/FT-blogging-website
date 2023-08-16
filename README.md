@@ -14,15 +14,16 @@ Acme company wants to have a blogging website for their employees.
 ## Instruction
 
 ### Part I.
-Create a project proposal about the company, Acme Inc.'s need to have a blogging website for employees.
+Create a project proposal about the company, Acme Inc.'s need to have a blogging website that employees can read online.
 1. Assuming that the client and you had already agreed to have a blogging website for employees but the client wants to have a formal proposal and implementation plan.
 2. The client want to know the following details
    1. Timeline
    2. Use cases
    3. Technology to be used
-   4. Team and their responsibilities
-   5. Codebase management
-   6. Cost breakdown
+   4. Infrastructure 
+   5. Team and their responsibilities
+   6. Codebase management
+   7. Cost breakdown
 
 ### Part II.
 1. Fork/Copy this repository as a personal project to your OWN github account.
@@ -53,7 +54,8 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
    7. As a user, I can delete my posted blog and cannot be viewed from the dashboard page
    8. As a user, I can edit my blog post and show when was the last update in the dashboard and view page.
    9.  As a user, I can post a comment on the blog post I'm currently viewing
-   10. As a user, I can comment to a comment and display it as a thread similar to facebook (bonus)
+   10.  As an admin, I can delete or hide a blog post. 
+   11. As a user, I can reply to a comment and display it as a thread similar to facebook (bonus)
 
     ```
     Post
