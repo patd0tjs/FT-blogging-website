@@ -24,6 +24,10 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
    5. Team and their responsibilities
    6. Codebase management
    7. Cost breakdown
+  
+```diff
+- For full time applicants only
+```
 
 ### Part II.
 1. Fork/Copy this repository as a personal project to your OWN github account.
