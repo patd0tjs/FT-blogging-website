@@ -51,7 +51,7 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
       1. User who owns the blog post
       2. Title
       3. Description
-      4. Content (Text post, Photo, Iframe of youtube a video)
+      4. Content (Text post, Photo, Iframe of youtube video)
       5. Creation Date
       6. Update Date
    5. As a user, I can view ALL blog posts posted by ALL users in the dashboard/home page
