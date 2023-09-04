@@ -26,7 +26,7 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
    7. Cost breakdown
   
 ```diff
-- For full time applicants only
+!For full time applicants only
 ```
 
 ### Part II.
