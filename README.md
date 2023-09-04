@@ -16,7 +16,7 @@ Acme company wants to have a blogging website for their employees.
 ### Part I.
 
 ```diff
-For full time position applicants only! 
+!For full time position applicants only! 
 ```
 
 Create a project proposal about the company, Acme Inc.'s need to have a blogging website that employees can read online.
