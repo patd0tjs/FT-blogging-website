@@ -1,4 +1,4 @@
-# blogging-website
+# Blogging Website
 
 ## Problem:
 Acme company wants to have a blogging website for their employees.
