@@ -34,12 +34,13 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
    1. Do not clone
 2. Implement the following user stories to your blogging website
    1. As a user, I should be able to signup my account with these following requirements:
-      1. Email
+      1. Email <sup>unique</sup>
       2. Password
-      3. Full name
-      4. Date of Birth
-      5. Date of registration
-      6. Date of record update
+      3. Company ID <sup>unique</sup>
+      4. Full name
+      5. Date of Birth
+      6. Date of registration
+      7. Date of record update
    2. As a user, I should be able to login after signing up using my email and password
    3. As a user, I will be redirected to the dashboard/home page after signing in.
    4. As a user, I can post 3 types of blog posts with these following requirements:
@@ -61,7 +62,6 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
    9.  As a user, I can post a comment on the blog post I'm currently viewing
    10.  As an admin, I can delete or hide a blog post. 
    11. As a user, I can reply to a comment and display it as a thread similar to facebook (bonus)
-
     ```
     Post
       - title
