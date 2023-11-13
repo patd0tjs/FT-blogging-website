@@ -95,4 +95,4 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
    1. The repository should have the migration scripts or database included in the project.
 
 
-### Bonus: A comment can have a link, picture aside from text
+### Bonus: A comment can have a link or a picture aside from text. 
