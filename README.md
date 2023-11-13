@@ -34,6 +34,16 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
 
 ### Part II. Code Exam
 
+#### Requirements: 
+   1. Two (2) Types of user
+      1. user
+      2. admin  
+   3. Use Laravel, or any PHP Framework you know for front-end
+   4. You are free to use any front-end framework
+   5. Personal github should be used. 
+
+#### Stories
+
 1. Fork/Copy this repository as a personal project to your OWN github account.
    1. Do not clone
 2. Implement the following user stories to your blogging website
@@ -60,12 +70,12 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
       2. Description
       3. Posted By
       4. Number of comments
-        * pagination - bonus
+      5. Pagination - *bonus
    6. As a user, I can view a specific blog post and see all the details
    7. As a user, I can delete my posted blog and cannot be viewed from the dashboard page
    8. As a user, I can edit my blog post and show when was the last update in the dashboard and view page.
-   9.  As a user, I can post a comment on the blog post I'm currently viewing
-   10.  As an admin, I can delete or hide a blog post. 
+   9. As a user, I can post a comment on the blog post I'm currently viewing
+   10. As an admin, I can delete or hide a blog post. 
    11. As a user, I can reply to a comment and display it as a thread similar to facebook (bonus)
     ```
     Post
