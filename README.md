@@ -13,7 +13,7 @@ Acme company wants to have a blogging website for their employees.
 
 ## Instruction
 
-### Part I.
+### Part I. Project Proposal
 
 ```diff
 !For FULLTIME position applicants only! 
@@ -21,7 +21,7 @@ Acme company wants to have a blogging website for their employees.
 
 Create a project proposal about the company, Acme Inc.'s need to have a blogging website that employees can read online.
 1. Assuming that the client and you had already agreed to have a blogging website for employees but the client wants to have a formal proposal and implementation plan.
-2. The client want to know the following details
+2. The client wants to know the following details
    1. Timeline
    2. Use cases
    3. Technology to be used
@@ -32,7 +32,8 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
   
 
 
-### Part II.
+### Part II. Code Exam
+
 1. Fork/Copy this repository as a personal project to your OWN github account.
    1. Do not clone
 2. Implement the following user stories to your blogging website
