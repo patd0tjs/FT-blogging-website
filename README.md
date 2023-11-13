@@ -35,9 +35,9 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
 ### Part II. Code Exam
 
 #### Requirements: 
-   1. Two (2) Types of user
-      1. user
-      2. admin  
+   1. The system has two (2) Types of user
+      1. user - Can register, login, post a blog. 
+      2. admin  - Can delete/hide a blog post
    3. Use Laravel, or any PHP Framework you know for front-end
    4. You are free to use any front-end framework
    5. Personal github should be used. 
