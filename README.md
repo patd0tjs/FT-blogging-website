@@ -72,6 +72,3 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
  
 3. Iterations and changes should be pushed to your personal github copy of the project.
    1. The repository should have the migration scripts or database included in the project.
-
-
-### Bonus: A comment can have a link or a picture aside from text. 
