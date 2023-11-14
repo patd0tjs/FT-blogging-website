@@ -32,13 +32,10 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
   
 ### Part II. Code Exam
 
-#### Requirements: 
-   1. The system has two (2) Types of user
-      1. user - Can register, login, post a blog. 
-      2. admin  - Can delete/hide a blog post
-   3. Use Laravel, or any PHP Framework you know for front-end
-   4. You are free to use any front-end framework
-   5. Personal github should be used. 
+#### Requirements:  
+   1. Use Laravel, or any PHP Framework you know for front-end
+   2. You are free to use any front-end framework but blade will is okay. 
+   3. Personal github/gitlab should be used. 
 
 #### Stories
 
@@ -71,10 +68,8 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
       5. Pagination - *bonus
    6. As a user, I can view a specific blog post and see all the details
    7. As a user, I can delete my posted blog and cannot be viewed from the dashboard page
-   8. As a user, I can edit my blog post and show when was the last update in the dashboard and view page. 
-   10. As an admin, I can delete or hide a blog post. 
-   11. As a user, I can comment on a blog post. *Bonus
-   12. 
+   8. As a user, I can edit my blog post and show when was the last update in the dashboard and view page.  
+ 
 3. Iterations and changes should be pushed to your personal github copy of the project.
    1. The repository should have the migration scripts or database included in the project.
 
