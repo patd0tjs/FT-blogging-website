@@ -30,8 +30,6 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
    6. Codebase management
    7. Cost breakdown
   
-
-
 ### Part II. Code Exam
 
 #### Requirements: 
@@ -73,24 +71,10 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
       5. Pagination - *bonus
    6. As a user, I can view a specific blog post and see all the details
    7. As a user, I can delete my posted blog and cannot be viewed from the dashboard page
-   8. As a user, I can edit my blog post and show when was the last update in the dashboard and view page.
-   9. As a user, I can post a comment on the blog post I'm currently viewing
+   8. As a user, I can edit my blog post and show when was the last update in the dashboard and view page. 
    10. As an admin, I can delete or hide a blog post. 
-   11. As a user, I can reply to a comment and display it as a thread similar to facebook (bonus)
-    ```
-    Post
-      - title
-      - content
-      - description
-      - comments
-        - comment 1
-            comment 1.1
-            comment 1.2
-        - comment 2
-            comment 2.1
-            comment 2.2
-        - so on ...
-    ```
+   11. As a user, I can comment on a blog post. *Bonus
+   12. 
 3. Iterations and changes should be pushed to your personal github copy of the project.
    1. The repository should have the migration scripts or database included in the project.
 
