@@ -32,13 +32,13 @@ You're allowed to use any laravel starter kit for authentication, just make sure
       5. Date of Birth
    2. As a user, I should be able to login after signing up using my email and password
    3. As a user, I will be redirected to the dashboard/home page after signing in.
-   4. As a user, I can post 3 types of blog posts with these following requirements:
+   4. As a user, I can post a blog posts with these following requirements:
       1. User who owns the blog post
       2. Title
       3. Description
-      4. Content (Text post, Photo, Iframe of youtube video *bonus)
-      5. Creation Date
-      6. Update Date
+      4. Content (Text) *bonus: Content can also be an image, video or combination of image/video and text *
+      6. Creation Date
+      7. Update Date
    5. As a user, I can view ALL blog posts posted by ALL users in the dashboard/home page
       1. Title
       2. Description
