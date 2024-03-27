@@ -34,7 +34,7 @@ Create a project proposal about the company, Acme Inc.'s need to have a blogging
 
 #### Requirements:  
    1. Use Laravel, or any PHP Framework you know for front-end
-   2. You are free to use any front-end framework but blade will is okay. 
+   2. You are free to use any front-end framework but just blade is okay as well. 
    3. Personal github/gitlab should be used. 
 
 #### Stories
