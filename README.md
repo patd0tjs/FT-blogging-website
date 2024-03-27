@@ -10,7 +10,7 @@ Acme company wants to have a blogging website for their employees.
 3. Fresh laravel copy. [link](https://laravel.com/docs/8.x/installation)
 
 ### Tip:
-  1. You're allowed to use any laravel starter kit for authentication, just make sure to follow the required database structure see: https://laravel.com/docs/10.x/starter-kits
+  1. You're allowed to use any laravel starter kit for authentication, just make sure to follow the required database structure mentioned in the instruction below. see: https://laravel.com/docs/10.x/starter-kits
 
 ## Code Exam
 
