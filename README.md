@@ -36,7 +36,7 @@ You're allowed to use any laravel starter kit for authentication, just make sure
       1. User who owns the blog post
       2. Title
       3. Description
-      4. Content (Text) *bonus: Content can also be an image, video or combination of image/video and text *
+      4. Content (Text) *bonus: Content can also be an image, video or combination of image/video and text*
       6. Creation Date
       7. Update Date
    5. As a user, I can view ALL blog posts posted by ALL users in the dashboard/home page
