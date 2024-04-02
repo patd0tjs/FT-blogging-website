@@ -10,14 +10,14 @@ Acme company wants to have a blogging website for their employees.
 3. Fresh laravel copy. [link](https://laravel.com/docs/8.x/installation)
 
 ### Tip:
-You're allowed to use any laravel starter kit for authentication, just make sure to follow the required database structure mentioned in the instructions below. see: [https://laravel.com/docs/8.x/starter-kits](https://laravel.com/docs/8.x/starter-kits)
+You're allowed to use any laravel starter kit for authentication to **save time**, just make sure to follow the required database structure mentioned in the instructions below. see: [https://laravel.com/docs/8.x/starter-kits](https://laravel.com/docs/8.x/starter-kits)
 
 ## Code Exam
 
 ### Requirements:  
    1. Use Laravel, or any PHP Framework you know for development
    2. You are free to use any front-end framework but just blade is okay as well. 
-   3. Personal github/gitlab should be used. 
+   3. Personal github/gitlab/bitbucket should be used. 
 
 ### Instruction
 
